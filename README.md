@@ -29,8 +29,8 @@ Content, UX, Design, Engineering
 ---
 ### Time-based Media
 
-* [1.2.1: Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-only-and-video-only-prerecorded)
-**Level A**
+* [1.2.1: Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-only-and-video-only-prerecorded)\
+**Level A**\
 Content, UX
 * [1.2.2: Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
 **Level A**
