@@ -25,7 +25,7 @@
 ### Text Alternatives
 ---
 #### [1.1.1: Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
-**Level A**
+**Level A**\
 Content, UX, Design, Engineering
 ##### References
 * [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
@@ -39,7 +39,7 @@ Content, UX
 * [Example](https://example.com/)
 ---
 #### [1.2.2: Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
-**Level A**
+**Level A**\
 Content, UX
 ---
 #### [1.2.3: Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
