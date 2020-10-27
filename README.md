@@ -39,6 +39,7 @@ Content, UX
 * [Example](https://example.com/)
 ---
 #### [1.2.2: Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
+
 **Level A**\
 Content, UX
 ---
