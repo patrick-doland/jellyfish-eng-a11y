@@ -32,6 +32,8 @@ Content, UX, Design, Engineering
 ##### Resources 
 * [Wuhcag on 1.1.1](https://www.wuhcag.com/non-text-content/)
 * [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
+* [CAPTCHA and Accessibility](https://www.digital.govt.nz/standards-and-guidance/design-and-ux/accessibility/captcha-and-accessibility/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ---
 ### Time-based Media
@@ -42,7 +44,7 @@ Content, UX, Design, Engineering
 Content, UX
 ##### Resources 
 * [Wuhcag on 1.2.1](https://www.wuhcag.com/audio-only-video-only-prerecorded/)
-* [Example](https://example.com/)
+* [Able Player](https://ableplayer.github.io/ableplayer/)
 
 ---
 #### [1.2.2: Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
@@ -51,6 +53,7 @@ Content, UX
 Content, UX
 ##### Resources 
 * [Wuhcag on 1.2.2](https://www.wuhcag.com/captions-prerecorded/)
+* [Able Player](https://ableplayer.github.io/ableplayer/)
 
 ---
 #### [1.2.3: Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
@@ -58,6 +61,7 @@ Content, UX
 Content, UX
 ##### Resources 
 * [Wuhcag on 1.2.3](https://www.wuhcag.com/audio-description-media-alternative-prerecorded/)
+* [Able Player](https://ableplayer.github.io/ableplayer/)
 
 ---
 #### [1.2.4: Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
@@ -65,6 +69,7 @@ Content, UX
 Content
 ##### Resources 
 * [Wuhcag on 1.2.4](https://www.wuhcag.com/captions-live/)
+* [Able Player](https://ableplayer.github.io/ableplayer/)
 
 ---
 #### [1.2.5: Audio Description (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded)
@@ -89,6 +94,7 @@ Content, UX, Engineering
 Content, UX, Engineering
 ##### Resources 
 * [Wuhcag on 1.3.2](https://www.wuhcag.com/meaningful-sequence/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ---
 #### [1.3.3: Sensory Characteristics](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
@@ -106,6 +112,7 @@ Content, UX, Design
 Design
 ##### Resources 
 * [Wuhcag on 1.4.1](https://www.wuhcag.com/use-of-colour/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ---
 #### [1.4.2: Audio Control](https://www.w3.org/WAI/WCAG21/quickref/#audio-control)
@@ -120,6 +127,7 @@ UX
 Design
 ##### Resources 
 * [Wuhcag on 1.4.3](https://www.wuhcag.com/contrast-minimum/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ---
 #### [1.4.4: Resize text](https://www.w3.org/WAI/WCAG21/quickref/#resize-text)
@@ -146,6 +154,7 @@ Design, Engineering
 UX, Engineering
 ##### Resources 
 * [Wuhcag on 2.1.1](https://www.wuhcag.com/keyboard/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 
 ---
 #### [2.1.2: No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)
@@ -225,6 +234,8 @@ UX
 Content, UX
 ##### Resources 
 * [Wuhcag on 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
+
 
 ---
 #### [2.4.7: Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
