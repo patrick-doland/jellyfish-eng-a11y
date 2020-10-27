@@ -27,8 +27,8 @@
 - [1.1.1: Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)\
 **Level A**\
 Content, UX, Design, Engineering
-  * #### References\
-    - [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
+  #### References\
+  * [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
 ---
 ### Time-based Media
 
