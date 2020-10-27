@@ -24,17 +24,17 @@
 
 ### Text Alternatives
 
-* [1.1.1: Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)\
+- [1.1.1: Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)\
 **Level A**\
 Content, UX, Design, Engineering
+  * #### References\
+    - [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
 ---
 ### Time-based Media
 
 * [1.2.1: Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-only-and-video-only-prerecorded)\
 **Level A**\
 Content, UX
-#### References
-    * [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
 * [1.2.2: Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)\
 **Level A**\
 Content, UX
