@@ -32,7 +32,9 @@ Content, UX, Design, Engineering
 
 * [1.2.1: Audio-only and Video-only (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-only-and-video-only-prerecorded)\
 **Level A**\
-Content, UX
+Content, UX\
+#### References\
+    * [Five Ways to Write Better Alt Text](https://devyarns.com/write-better-alt-text/)
 * [1.2.2: Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)\
 **Level A**\
 Content, UX
@@ -82,12 +84,11 @@ Design, Engineering
 
 * [2.1.1: Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)\
 **Level A**\
-Engineering
+UX, Engineering
 * [2.1.2: No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)\
 **Level A**\
-Engineering
+UX, Engineering
 ---
-
 ### Enough Time
 
 * [2.2.1: Timing Adjustable](https://www.w3.org/WAI/WCAG21/quickref/#timing-adjustable)\
@@ -103,7 +104,6 @@ UX
 **Level A**\
 Content, UX, Design
 ---
-
 ### Navigable
 
 * [2.4.1: Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)\
