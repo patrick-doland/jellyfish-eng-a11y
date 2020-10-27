@@ -23,7 +23,7 @@
 ## Perceivable
 
 ### Text Alternatives
-
+---
 #### [1.1.1: Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#non-text-content)
 **Level A**\
 Content, UX, Design, Engineering
