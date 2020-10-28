@@ -1,5 +1,5 @@
 
-# WCAG 2.0 AA by Department
+# WCAG 2.1 AA by Department
 ---
 ### Table of Contents
 
@@ -13,6 +13,7 @@
   * [Enough Time](#enough-time)
   * [Seizures and Physical Reactions](#seizures-and-physical-reactions)
   * [Navigable](#navigable)
+  * [Input Modalities](#input-modalities)
 - [Understandable](#understandable)
   * [Readable](#readable)
   * [Predictable](#predictable)
