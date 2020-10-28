@@ -177,7 +177,6 @@ Version 2.1\
 **Level AA**\
 Design, Engineering
 ##### Resources 
-* [Wuhcag on 1.4.5](https://www.wuhcag.com/images-of-text/)
 
 ---
 #### [1.4.11: Non-text Contrast](https://www.w3.org/WAI/WCAG21/quickref/#non-text-contrast)
