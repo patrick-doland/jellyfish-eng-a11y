@@ -62,7 +62,7 @@ Content, UX
 #### [1.2.3: Audio Description or Media Alternative (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded)
 Version 2.0\
 **Level A**\
-Content, UX
+Content, UX, Design
 ##### Resources 
 * [Wuhcag on 1.2.3](https://www.wuhcag.com/audio-description-media-alternative-prerecorded/)
 * [Able Player](https://ableplayer.github.io/ableplayer/)
@@ -71,7 +71,7 @@ Content, UX
 #### [1.2.4: Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
 Version 2.0\
 **Level AA**\
-Content
+Content, UX
 ##### Resources 
 * [Wuhcag on 1.2.4](https://www.wuhcag.com/captions-live/)
 * [Able Player](https://ableplayer.github.io/ableplayer/)
@@ -217,7 +217,7 @@ UX, Engineering
 #### [2.1.2: No Keyboard Trap](https://www.w3.org/WAI/WCAG21/quickref/#no-keyboard-trap)
 Version 2.0\
 **Level A**\
-UX, Engineering
+Engineering
 ##### Resources 
 * [Wuhcag on 2.1.2](https://www.wuhcag.com/no-keyboard-trap/)
 
@@ -265,7 +265,7 @@ Content, UX, Design
 #### [2.4.1: Bypass Blocks](https://www.w3.org/WAI/WCAG21/quickref/#bypass-blocks)
 Version 2.0\
 **Level A**\
-UX, Engineering
+Engineering
 ##### Resources 
 * [Wuhcag on 2.4.1](https://www.wuhcag.com/bypass-blocks/)
 
@@ -273,7 +273,7 @@ UX, Engineering
 #### [2.4.2: Page Titled](https://www.w3.org/WAI/WCAG21/quickref/#page-titled)
 Version 2.0\
 **Level A**\
-Content
+Content, UX
 ##### Resources 
 * [Wuhcag on 2.4.2](https://www.wuhcag.com/page-titled/)
 
@@ -339,7 +339,7 @@ UX, Engineering
 #### [2.5.3: Label in Name](https://www.w3.org/WAI/WCAG21/quickref/#label-in-name)
 Version 2.1\
 **Level A**\
-UX, Engineering
+Engineering
 ##### Resources 
 
 ---
